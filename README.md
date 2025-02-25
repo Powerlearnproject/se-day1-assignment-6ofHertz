@@ -16,13 +16,13 @@ _DevOps and CI/CD: (2010's to present) - The intergration of development and ope
 
 3. List and briefly explain the phases of the Software Development Life Cycle.
 
-1. Requirement Analysis - Gathering and defining sys. requirements.
-2. Planing - Defining scope, timelines, and resources.
-3. Design - Creating s/w arch. and user interface designs.
-4. Implementation - Writind. developing the actual s/w (coding).
-5. Testing - Verifying functionality, security, and performance.
-6. Deployment - Releasing the s/w to the end-users for use.
-7. Maintenance - Ongoing updates and fixing bugs.
+   1. Requirement Analysis - Gathering and defining sys. requirements.
+   2. Planing - Defining scope, timelines, and resources.
+   3. Design - Creating s/w arch. and user interface designs.
+   4. Implementation - Writind. developing the actual s/w (coding).
+   5. Testing - Verifying functionality, security, and performance.
+   6. Deployment - Releasing the s/w to the end-users for use.
+   7. Maintenance - Ongoing updates and fixing bugs.
 
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
